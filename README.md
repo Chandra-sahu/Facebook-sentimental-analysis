@@ -269,12 +269,4 @@ If you found this project useful:
 🍴 Fork it  
 📢 Share it
 
----
 
-# 📬 Connect With Me
-
-**GitHub:** https://github.com/your-username
-
----
-
-### "Turning social media text into actionable insights using AI."
